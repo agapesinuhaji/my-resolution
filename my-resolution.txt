@@ -1,3 +1,4 @@
 My Resolution
 ====================
 - Laravel (to do list, blog, e-commerce)
+- Larave + Flutte (app Penjualan)
