@@ -1,1 +1,3 @@
 membuat aplikasi yang dapat disewakan
+- sales
+- app belanja
