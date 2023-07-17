@@ -1,4 +1,5 @@
 My Resolution
 ====================
+- Memahami database
 - Laravel (to do list, blog, e-commerce)
 - Larave + Flutte (app Penjualan)
